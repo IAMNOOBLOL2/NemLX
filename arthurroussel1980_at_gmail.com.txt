@@ -1,4 +1,0 @@
-Email: arthurroussel1980@gmail.com
-Username: Admin
-IP: 127.0.0.1
-Ban: false
